@@ -1,6 +1,6 @@
 # CPEN400A Assignment: Building Modern Web Applications
 
-This project was a semester long assignment as part of a computer engineering course I took during my degree. The course was focused around full-stack development of modern web applications. This assignment consisted of 5 parts, each dedicated to a key component of full stack development:
+This project was a semester long assignment as part of a computer engineering course I took during my degree. This assignment consisted of 5 parts, each dedicated to a key component of full stack development:
 1. Building the Client-side GUI
 2. Dynamically Rendering the Client-side Application
 3. Exchanging Data with the Server
